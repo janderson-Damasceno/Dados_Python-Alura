@@ -31,7 +31,7 @@ Navegue até a pasta do projeto no seu terminal e execute o comando do Streamlit
 
      *streamlit run app.py*
 
-    O painel será aberto automaticamente no seu navegador padrão https://dados-py-alura.streamlit.app/.
+    O painel será aberto automaticamente no seu navegador padrão https://dados-python-j2026.streamlit.app/
 
 # 📈 Funcionalidades do Dashboard
 
